@@ -1,4 +1,4 @@
-# fancode_assignment
+# assignment_fancode
 Project structure:
 ```
 ├── src/
